@@ -8,6 +8,7 @@
 - Solve programming problems at LeetCode
 - Play videogames
 - Skiing during the winter
+- Fishing during the summer
 
 ## 💻 Current project
 - 7 claus 🤫
